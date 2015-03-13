@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/159/trunk/KGMLReader/src/org/cytoscape/data/reader/kgml
+END
+KEGGRelationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/33/trunk/KGMLReader/src/org/cytoscape/data/reader/kgml/KEGGRelationType.java
+END
+KGMLReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/142/trunk/KGMLReader/src/org/cytoscape/data/reader/kgml/KGMLReader.java
+END
+PathwayMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/159/trunk/KGMLReader/src/org/cytoscape/data/reader/kgml/PathwayMapper.java
+END
+KEGGShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/33/trunk/KGMLReader/src/org/cytoscape/data/reader/kgml/KEGGShape.java
+END
+KGMLFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/108/trunk/KGMLReader/src/org/cytoscape/data/reader/kgml/KGMLFilter.java
+END
+KEGGEntryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/33/trunk/KGMLReader/src/org/cytoscape/data/reader/kgml/KEGGEntryType.java
+END
+KGMLReaderPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/152/trunk/KGMLReader/src/org/cytoscape/data/reader/kgml/KGMLReaderPlugin.java
+END

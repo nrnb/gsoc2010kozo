@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/159/trunk/KGMLReader/src/org/cytoscape/kegg/webservice
+END
+KEGGResponseParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/159/trunk/KGMLReader/src/org/cytoscape/kegg/webservice/KEGGResponseParser.java
+END
+KEGGRestClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/150/trunk/KGMLReader/src/org/cytoscape/kegg/webservice/KEGGRestClient.java
+END

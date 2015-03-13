@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/137/trunk/KGMLReader/testData
+END
+entry_table
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/76/trunk/KGMLReader/testData/entry_table
+END
+sampleTCA.attr
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/119/trunk/KGMLReader/testData/sampleTCA.attr
+END
+bsu00010.cys
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/71/trunk/KGMLReader/testData/bsu00010.cys
+END
+bsu01100.cys
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/75/trunk/KGMLReader/testData/bsu01100.cys
+END

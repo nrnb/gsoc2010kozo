@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/95/trunk/KGMLReader/lib
+END
+httpcore-4.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/88/trunk/KGMLReader/lib/httpcore-4.0.1.jar
+END
+jsonic-1.2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/95/trunk/KGMLReader/lib/jsonic-1.2.0.jar
+END
+httpclient-4.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/88/trunk/KGMLReader/lib/httpclient-4.0.1.jar
+END

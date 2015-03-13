@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/92/trunk/KGMLReader/lib/testlibs
+END
+junit-4.8.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/33/trunk/KGMLReader/lib/testlibs/junit-4.8.2.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/92/trunk/KGMLReader/lib/testlibs/commons-logging-1.1.1.jar
+END
+ant-googlecode-0.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/72/trunk/KGMLReader/lib/testlibs/ant-googlecode-0.0.2.jar
+END

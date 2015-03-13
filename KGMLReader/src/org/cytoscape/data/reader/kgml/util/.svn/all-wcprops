@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/108/trunk/KGMLReader/src/org/cytoscape/data/reader/kgml/util
+END
+PathwayDragAndDropManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/108/trunk/KGMLReader/src/org/cytoscape/data/reader/kgml/util/PathwayDragAndDropManager.java
+END
+ColorParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/33/trunk/KGMLReader/src/org/cytoscape/data/reader/kgml/util/ColorParser.java
+END
